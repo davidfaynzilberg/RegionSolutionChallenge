@@ -10,7 +10,7 @@ namespace RegionSolution
             // Introduction
             Console.WriteLine("Welcome to Region Center Calculation App");
             Console.WriteLine("\nExample Input:\n");
-            Console.WriteLine("(1) 6 6 - Two Dimenstion Array Dimensions");
+            Console.WriteLine("(1) 6 6 - Two-Dimenstion Array Dimensions");
             Console.WriteLine("\n(2) Array Lines:");
             Console.WriteLine(" 0, 80, 45, 95, 170, 145 - Two Dimenstion Array Input");
             Console.WriteLine(" 115, 210, 60, 5, 230, 220 ");
